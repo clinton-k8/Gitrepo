@@ -1,3 +1,4 @@
 #!/bin/bash
 
-echo "I like git and github"
+echo "I like git $ github"
+echo " I like github"
